@@ -1,0 +1,5 @@
+# Backend Environment Variables
+# Edit karo apne values ke saath
+
+DATABASE_URL=postgresql://postgres:YOUR_PASSWORD@db.xxxxx.supabase.co:5432/postgres
+SECRET_KEY=promobridge-secret-key-12345
